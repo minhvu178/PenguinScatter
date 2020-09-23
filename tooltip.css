@@ -1,0 +1,16 @@
+#tooltip.hidden
+{
+    display:none
+}
+
+#tooltip
+{
+    position:absolute;
+    width:200px;
+    height: auto;
+    padding:10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgb(0, 0, 0, 0.4);
+    pointer-events: none;
+}
